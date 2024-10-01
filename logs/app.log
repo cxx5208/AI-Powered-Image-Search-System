@@ -1,0 +1,523 @@
+ERROR:root:Failed to process image audi 2.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 3.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 3.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 2.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 3.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 3.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image bike 1.png: Failed to process edge detection: Unable to infer channel dimension format
+ERROR:root:Failed to process image bike 1.png: Failed to process edge detection: Unable to infer channel dimension format
+ERROR:root:Failed to process image audi 2.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 2.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 3.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 3.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 2.jpg: Data is outside [0.0, 1.0] and clamp is not set.
+ERROR:root:Failed to process image audi 2.jpg: name 'detect_objects' is not defined
+ERROR:root:Failed to process image audi 2.jpg: Failed to process object detection: 
+DetrConvEncoder requires the timm library but it was not found in your environment. You can install it with pip:
+`pip install timm`. Please note that you may need to restart your runtime after installation.
+
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image audi 2.jpg: Expecting value: line 1 column 1 (char 0)
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image bike 1.png: Failed to process object detection: Unable to infer channel dimension format
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image bike 1.png: Failed to process object detection: Unable to infer channel dimension format
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 1.png
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 1.png
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+WARNING:root:Unexpected object format in bike 3.jpg: width
+WARNING:root:Unexpected object format in bike 3.jpg: height
+WARNING:root:Unexpected object format in bike 3.jpg: file_size
+WARNING:root:Unexpected object format in bike 3.jpg: upload_time
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: width
+WARNING:root:Unexpected object format in bike 3.jpg: height
+WARNING:root:Unexpected object format in bike 3.jpg: file_size
+WARNING:root:Unexpected object format in bike 3.jpg: upload_time
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: width
+WARNING:root:Unexpected object format in bike 3.jpg: height
+WARNING:root:Unexpected object format in bike 3.jpg: file_size
+WARNING:root:Unexpected object format in bike 3.jpg: upload_time
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: width
+WARNING:root:Unexpected object format in bike 3.jpg: height
+WARNING:root:Unexpected object format in bike 3.jpg: file_size
+WARNING:root:Unexpected object format in bike 3.jpg: upload_time
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: width
+WARNING:root:Unexpected object format in bike 3.jpg: height
+WARNING:root:Unexpected object format in bike 3.jpg: file_size
+WARNING:root:Unexpected object format in bike 3.jpg: upload_time
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected format for image data: [{'box': [117.23625183105469, 300.7613525390625, 1820.753173828125, 1029.3275146484375], 'label': 'Car', 'score': 0.9993902444839478}]
+WARNING:root:Unexpected format for image data: [{'box': [82.87969970703125, 417.2790832519531, 1958.251708984375, 1157.228759765625], 'label': 'Car', 'score': 0.9987220168113708}]
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+WARNING:root:Unexpected format for image data: [{'box': [82.87969970703125, 417.2790832519531, 1958.251708984375, 1157.228759765625], 'label': 'Car', 'score': 0.9987220168113708}]
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+WARNING:root:Unexpected format for image data: [{'box': [82.87969970703125, 417.2790832519531, 1958.251708984375, 1157.228759765625], 'label': 'Car', 'score': 0.9987220168113708}]
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+WARNING:root:Unexpected format for image data: [{'box': [99.04419708251953, 23.805282592773438, 669.0345458984375, 404.6795654296875], 'label': 'Motorcycle', 'score': 0.9995622038841248}]
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 1.png
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 76020_EBR.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image GYVTC7mbEAAAW6Q.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 3975825.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image IMG_6695.JPG: Failed to process object detection: 85
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image IMG_6695.JPG: Failed to process object detection: 85
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image IMG_6695.JPG: Failed to process object detection: 85
+WARNING:root:Unexpected object format in audi 2.jpg: objects
+WARNING:root:Unexpected object format in audi 2.jpg: labels
+WARNING:root:Unexpected object format in audi 3.jpg: objects
+WARNING:root:Unexpected object format in audi 3.jpg: labels
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: labels
+WARNING:root:Unexpected object format in bike 1.png: objects
+WARNING:root:Unexpected object format in bike 1.png: labels
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: objects
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: labels
+WARNING:root:Unexpected object format in 76020_EBR.jpg: objects
+WARNING:root:Unexpected object format in 76020_EBR.jpg: labels
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: objects
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: labels
+WARNING:root:Unexpected object format in 3975825.jpg: objects
+WARNING:root:Unexpected object format in 3975825.jpg: labels
+WARNING:root:Unexpected object format in audi 2.jpg: objects
+WARNING:root:Unexpected object format in audi 2.jpg: labels
+WARNING:root:Unexpected object format in audi 3.jpg: objects
+WARNING:root:Unexpected object format in audi 3.jpg: labels
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: labels
+WARNING:root:Unexpected object format in bike 1.png: objects
+WARNING:root:Unexpected object format in bike 1.png: labels
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: objects
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: labels
+WARNING:root:Unexpected object format in 76020_EBR.jpg: objects
+WARNING:root:Unexpected object format in 76020_EBR.jpg: labels
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: objects
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: labels
+WARNING:root:Unexpected object format in 3975825.jpg: objects
+WARNING:root:Unexpected object format in 3975825.jpg: labels
+WARNING:root:Unexpected object format in audi 2.jpg: objects
+WARNING:root:Unexpected object format in audi 2.jpg: labels
+WARNING:root:Unexpected object format in audi 3.jpg: objects
+WARNING:root:Unexpected object format in audi 3.jpg: labels
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: labels
+WARNING:root:Unexpected object format in bike 1.png: objects
+WARNING:root:Unexpected object format in bike 1.png: labels
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: objects
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: labels
+WARNING:root:Unexpected object format in 76020_EBR.jpg: objects
+WARNING:root:Unexpected object format in 76020_EBR.jpg: labels
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: objects
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: labels
+WARNING:root:Unexpected object format in 3975825.jpg: objects
+WARNING:root:Unexpected object format in 3975825.jpg: labels
+WARNING:root:Unexpected object format in audi 2.jpg: objects
+WARNING:root:Unexpected object format in audi 2.jpg: labels
+WARNING:root:Unexpected object format in audi 3.jpg: objects
+WARNING:root:Unexpected object format in audi 3.jpg: labels
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: labels
+WARNING:root:Unexpected object format in bike 1.png: objects
+WARNING:root:Unexpected object format in bike 1.png: labels
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: objects
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: labels
+WARNING:root:Unexpected object format in 76020_EBR.jpg: objects
+WARNING:root:Unexpected object format in 76020_EBR.jpg: labels
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: objects
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: labels
+WARNING:root:Unexpected object format in 3975825.jpg: objects
+WARNING:root:Unexpected object format in 3975825.jpg: labels
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image GYVTC7mbEAAAW6Q.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image GYVTC7mbEAAAW6Q.jpeg
+WARNING:root:Unexpected object format in audi 2.jpg: objects
+WARNING:root:Unexpected object format in audi 2.jpg: labels
+WARNING:root:Unexpected object format in audi 3.jpg: objects
+WARNING:root:Unexpected object format in audi 3.jpg: labels
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: labels
+WARNING:root:Unexpected object format in bike 1.png: objects
+WARNING:root:Unexpected object format in bike 1.png: labels
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: objects
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: labels
+WARNING:root:Unexpected object format in 76020_EBR.jpg: objects
+WARNING:root:Unexpected object format in 76020_EBR.jpg: labels
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: objects
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: labels
+WARNING:root:Unexpected object format in 3975825.jpg: objects
+WARNING:root:Unexpected object format in 3975825.jpg: labels
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image GYVTC7mbEAAAW6Q.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image GYVTC7mbEAAAW6Q.jpeg
+WARNING:root:Unexpected object format in audi 2.jpg: objects
+WARNING:root:Unexpected object format in audi 2.jpg: labels
+WARNING:root:Unexpected object format in audi 3.jpg: objects
+WARNING:root:Unexpected object format in audi 3.jpg: labels
+WARNING:root:Unexpected object format in bike 3.jpg: objects
+WARNING:root:Unexpected object format in bike 3.jpg: labels
+WARNING:root:Unexpected object format in bike 1.png: objects
+WARNING:root:Unexpected object format in bike 1.png: labels
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: objects
+WARNING:root:Unexpected object format in parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg: labels
+WARNING:root:Unexpected object format in 76020_EBR.jpg: objects
+WARNING:root:Unexpected object format in 76020_EBR.jpg: labels
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: objects
+WARNING:root:Unexpected object format in GYVTC7mbEAAAW6Q.jpeg: labels
+WARNING:root:Unexpected object format in 3975825.jpg: objects
+WARNING:root:Unexpected object format in 3975825.jpg: labels
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 1364207.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 1364207.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 1364207.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 1364207.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 1364207.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 1364207.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image audi 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 1.png
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image bike 3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image parking-lot-with-car-at-night-aerial-above-top-view-2GMNH6E.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image GYVTC7mbEAAAW6Q.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image 3975825.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+ERROR:root:Failed to process image 10606295_1533353786897261_4048078760369606353_n.jpg: Failed to process object detection: 86
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img2.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img1.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img3.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img5.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img7.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img6.jpeg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img2.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img3.png
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img4.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img.jpg
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:timm.models._builder:Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+INFO:timm.models._hub:[timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+INFO:timm.models._builder:Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+INFO:root:Processed image img.jpg

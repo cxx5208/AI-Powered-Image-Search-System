@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+faiss-cpu
+Pillow
+transformers
+torch
+aiofiles
+requests
