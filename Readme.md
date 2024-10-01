@@ -4,6 +4,9 @@
 
 This project is an **AI-powered object detection and image search system** built using cutting-edge **computer vision** models and a **vector-based retrieval system**. The core idea is to allow users to upload images, detect objects using a state-of-the-art object detection model (Facebook's DETR), and then store object information in a **vector database**. Users can search for images containing one or more objects, and the system will retrieve all matching images from the stored database using **Retrieval-Augmented Generation (RAG)**.
 
+![Demo](https://img.youtube.com/vi/XpFnztrUID4/0.jpg)  
+[Watch the Demo](https://www.youtube.com/watch?v=XpFnztrUID4) 
+
 ## Features
 
 - **Upload Images**: Users can upload images in **PNG**, **JPEG**, or **JPG** format.
